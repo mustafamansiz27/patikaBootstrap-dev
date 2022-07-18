@@ -1,0 +1,44 @@
+
+
+html {
+    font-size: 21px;
+    line-height: 1.5;
+    margin-bottom: 50px;
+}
+img {
+    width: 100%;
+    
+}
+article {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+figure {
+    margin-right: o;
+    margin-left: 0;
+    text-align: center;
+    
+
+}
+figcaption {
+    margin-top: 16px ;
+    font-family: sans-serif;
+    font-weight: normal;
+    
+}
+.gray {
+    color: grey;
+} 
+ul  {
+    color: red;
+}
+
+ 
+ 
+
+
+
+
+
+
